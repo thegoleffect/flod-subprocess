@@ -1,0 +1,18 @@
+{
+  "name": "flod-subprocess",
+  "description": "subprocess module used in flod-webservers",
+  "homepage": "http://hapijs.com",
+  "version": "0.0.1",
+  "author": "Van Nguyen <thegoleffect@gmail.com>",
+  "repository": "git://github.com/thegoleffect/flod-subprocess",
+  "main": "index",
+  "dependencies": {
+    "underscore": "*"
+  },
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "http://github.com/walmartlabs/hapi/raw/master/LICENSE"
+    }
+  ]
+}
